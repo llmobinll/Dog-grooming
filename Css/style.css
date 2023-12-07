@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  background: #427ab4;
+  height: 150px;
+  text-align: center;
+}
+.text-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* gap: 45px; */
+  padding-top: 5px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 23px;
+  font-weight: 700;
+}
+.text-header h5 {
+  width: 200px;
+}
+.main-header {
+  height: 502px;
+  background: url(../Assets/Images/front-view-beautiful-dog-with-copy-space\\(
+      1\
+    ).png);
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+.main-text {
+  padding-top: 150px;
+  padding-left: 150px;
+  width: 600px;
+  line-height: 60px;
+  font-size: 30px;
+}
+.main-text p {
+  font-size: 18px;
+}
+.main-text a {
+  border-radius: 35px;
+  border-bottom: 1px solid #b2cdef;
+  background: #427ab4;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  padding: 10px 80px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  margin-left: 90px;
+}
