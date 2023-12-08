@@ -16,7 +16,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* gap: 45px; */
   padding-top: 5px;
   padding-right: 15px;
   color: #fff;
@@ -28,13 +27,10 @@
 }
 .main-header {
   height: 502px;
-  background: url(../Assets/Images/front-view-beautiful-dog-with-copy-space\\(
-      1\
-    ).png);
+  background: url(../Assets/Images/front-view-beautiful-dog-with-copy-space\ \(1\).png) ;
   background-position: right;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
 }
 .main-text {
   padding-top: 150px;
@@ -42,6 +38,7 @@
   width: 600px;
   line-height: 60px;
   font-size: 30px;
+  color: #fff;
 }
 .main-text p {
   font-size: 18px;
@@ -56,4 +53,45 @@
   font-size: 16px;
   color: #fff;
   margin-left: 90px;
+}
+.section2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.section2 img {
+  width: 689px;
+  height:560px;
+}
+.section2 h3 {
+color: #427AB4;
+text-align: center;
+font-size: 30.057px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 30px;
+}
+.text-section2 {
+width: 650px;
+color: #002953;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+margin-right: 40px;
+margin-top: 80px;
+}
+.p1 {
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+.p2 {
+  padding-bottom: 15px;
+  font-weight: 400;
+}
+.p3 {
+  font-weight: 500;
 }
