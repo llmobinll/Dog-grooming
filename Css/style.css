@@ -27,7 +27,7 @@
 }
 .main-header {
   height: 502px;
-  background: url(../Assets/Images/front-view-beautiful-dog-with-copy-space\ \(1\).png) ;
+  background: url(../Assets/Images/front-view-beautiful-dog-with-copy-space\ \(1\).png);
   background-position: right;
   background-size: cover;
   background-repeat: no-repeat;
@@ -62,27 +62,27 @@
 }
 .section2 img {
   width: 689px;
-  height:560px;
+  height: 560px;
 }
 .section2 h3 {
-color: #427AB4;
-text-align: center;
-font-size: 30.057px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-bottom: 30px;
+  color: #427ab4;
+  text-align: center;
+  font-size: 30.057px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-bottom: 30px;
 }
 .text-section2 {
-width: 650px;
-color: #002953;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 30px;
-text-align: center;
-margin-right: 40px;
-margin-top: 80px;
+  width: 650px;
+  color: #002953;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: center;
+  margin-right: 40px;
+  margin-top: 80px;
 }
 .p1 {
   font-weight: 700;
@@ -94,4 +94,40 @@ margin-top: 80px;
 }
 .p3 {
   font-weight: 500;
+}
+.section3 {
+  background: url(../Assets/Images/dark_blue_paws.png);
+  height: 550px;
+}
+.text-section3 {
+  color: #427ab4;
+  text-align: center;
+  font-size: 30.057px;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 60px;
+}
+.cards-section3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.card {
+  border-radius: 35px;
+  border-bottom: 3px solid #427ab4;
+  background: #ffae12;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 260px;
+  height: 290px;
+  flex-shrink: 0;
+  text-align: center;
+  color: #fff;
+  line-height: 25px;
+  padding: 10px;
+}
+.card h4 {
+  padding-bottom: 10px;
 }
