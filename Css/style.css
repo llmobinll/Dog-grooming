@@ -303,3 +303,25 @@ font-size: 30.057px;
 font-style: normal;
 font-weight: 700;
 }
+.icons-section7 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 120px;
+  margin-right: 100px;
+}
+.icon-section7 {
+text-align: center;
+line-height: 40px;
+color: #FFAE12;
+font-size: 28px;
+font-weight: 700;
+}
+
+.title-section7 {
+  color: #427AB4;
+text-align: center;
+font-size: 30.057px;
+font-weight: 700;
+margin-bottom: 100px;
+}
